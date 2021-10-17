@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 1003356378}
   - component: {fileID: 1003356377}
   m_Layer: 0
-  m_Name: Wall
+  m_Name: WallThatShouldNotBeDeleted
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
