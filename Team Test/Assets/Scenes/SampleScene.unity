@@ -837,7 +837,15 @@ GameObject:
   - component: {fileID: 1336475481}
   - component: {fileID: 1336475480}
   m_Layer: 0
+<<<<<<< Updated upstream
   m_Name: EnemyThatIsLessMad
+=======
+<<<<<<< HEAD
+  m_Name: EnemyThatIsMad
+=======
+  m_Name: EnemyThatIsLessMad
+>>>>>>> c6e3d6fc60c2b3862573afb338cc264299dff314
+>>>>>>> Stashed changes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
