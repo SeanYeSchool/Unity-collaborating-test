@@ -153,7 +153,7 @@ Transform:
   m_LocalScale: {x: 1, y: 4.4735575, z: 1}
   m_Children: []
   m_Father: {fileID: 68189330}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!61 &26099604
 BoxCollider2D:
@@ -260,6 +260,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1003356376}
+  - {fileID: 614972353}
   - {fileID: 26099603}
   - {fileID: 330596947}
   m_Father: {fileID: 0}
@@ -295,7 +296,7 @@ Transform:
   m_LocalScale: {x: 1, y: 4.4735575, z: 1}
   m_Children: []
   m_Father: {fileID: 68189330}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!61 &330596948
 BoxCollider2D:
@@ -374,8 +375,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
+=======
+>>>>>>> parent of 0ea6c83 (Deleted a wall)
 --- !u!1 &614972352
 GameObject:
   m_ObjectHideFlags: 0
@@ -388,7 +392,11 @@ GameObject:
   - component: {fileID: 614972355}
   - component: {fileID: 614972354}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: WallThatShouldNotBeDeleted
+=======
+  m_Name: Wall (1)
+>>>>>>> parent of 0ea6c83 (Deleted a wall)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -485,7 +493,10 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 0ea6c83 (Deleted a wall)
 --- !u!1 &996462436
 GameObject:
   m_ObjectHideFlags: 0
