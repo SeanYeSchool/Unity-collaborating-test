@@ -837,7 +837,6 @@ GameObject:
   - component: {fileID: 1336475481}
   - component: {fileID: 1336475480}
   m_Layer: 0
-<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_Name: EnemyThatIsLessMad
 =======
@@ -847,9 +846,6 @@ GameObject:
   m_Name: EnemyThatIsLessMad
 >>>>>>> c6e3d6fc60c2b3862573afb338cc264299dff314
 >>>>>>> Stashed changes
-=======
-  m_Name: Enemy
->>>>>>> parent of c6e3d6f (changed the enemy name to EnemyThatIsLessMad)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
