@@ -837,7 +837,7 @@ GameObject:
   - component: {fileID: 1336475481}
   - component: {fileID: 1336475480}
   m_Layer: 0
-  m_Name: EnemyThatIsLessMad
+  m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
