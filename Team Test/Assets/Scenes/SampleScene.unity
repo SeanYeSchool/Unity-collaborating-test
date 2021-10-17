@@ -494,7 +494,6 @@ GameObject:
   m_Component:
   - component: {fileID: 996462439}
   - component: {fileID: 996462438}
-  - component: {fileID: 996462440}
   - component: {fileID: 996462437}
   m_Layer: 0
   m_Name: Main Camera
@@ -568,18 +567,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &996462440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 996462436}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f2e272892e4030e498b65e6efc570a65, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1003356375
 GameObject:
   m_ObjectHideFlags: 0
@@ -699,7 +686,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1282001244}
   - component: {fileID: 1282001243}
-  - component: {fileID: 1282001242}
   - component: {fileID: 1282001241}
   - component: {fileID: 1282001240}
   - component: {fileID: 1282001239}
@@ -771,20 +757,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1282001242
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1282001238}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 679d3a746f2b80a49b76b957c6f3e4f1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  go: {fileID: 0}
-  speed: 0
 --- !u!212 &1282001243
 SpriteRenderer:
   m_ObjectHideFlags: 0
